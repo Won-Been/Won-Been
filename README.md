@@ -1,4 +1,11 @@
-### Hi there 👋
+Hi there👋 I'm **Data Scientist** using Python & Pytorch💥      
+But also familar with Tensorflow!
+
+### 🌈 To reach me
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/wonbeen-park/)](https://www.linkedin.com/in/wonbeen-park/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonbeenp@gmail.com)](wonbeenp@gmail.com)
+
+### 🙋 Skills 🙋    
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-squar&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-squar&logo=Linux&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-squar&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-squar&logo=Tensorflow&logoColor=white"/>      
 
 <!--
 **biini/biini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
